@@ -2769,3 +2769,7 @@ body.light .resumo_fn_modalbox .modal_content::-webkit-scrollbar-thumb{border-co
 .borders {
 	border-radius: 10px;
 }
+
+.text-white {
+	color: #FFFFFF;
+}
