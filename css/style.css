@@ -1850,7 +1850,7 @@ a:focus {
 	height: 26px;
 	display: block;
 	right: 154px;
-	top: 50%;
+	bottom: 25%;
 	margin-top: -13px;
 }
 .resumo_fn_totop:after{
@@ -2764,4 +2764,8 @@ body.light .resumo_fn_modalbox .modal_content::-webkit-scrollbar-thumb{border-co
 
 @media(max-width: 370px){
 	.fn__nav .text{display: none;}
+}
+
+.borders {
+	border-radius: 10px;
 }
